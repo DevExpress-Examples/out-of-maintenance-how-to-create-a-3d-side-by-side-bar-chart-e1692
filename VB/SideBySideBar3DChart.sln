@@ -1,4 +1,4 @@
-Microsoft Visual Studio Solution File, Format Version 11.00
+﻿Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2012
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "SideBySideBar3DChart", "SideBySideBar3DChart.vbproj", "{AB1E97A1-3BB6-4102-8898-C2F07D007BC8}"
 EndProject
