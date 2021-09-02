@@ -1,6 +1,6 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SideBySideBar3DChart", "SideBySideBar3DChart.csproj", "{AB1E97A1-3BB6-4102-8898-C2F07D007BC8}"
+# Visual Studio 16
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SideBySideBar3DChart", "SideBySideBar3DChart.Net5.csproj", "{AB1E97A1-3BB6-4102-8898-C2F07D007BC8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
